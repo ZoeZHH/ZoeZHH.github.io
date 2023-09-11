@@ -8,16 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: CV/CV_Skeeter.qmd
+      - href: CV/CV_Zoe.qmd
         text: Curriculum Vitae
-      - href: Work.qmd
-        text: Recent Work
-      # - href: Make_a_Site.qmd
-      #   text: How to make your own site!
-    right:
-      - icon: github
-        href: https://github.com/GEOS200
-        aria-label: Quarto GitHub
 
 format:
   html:

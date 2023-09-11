@@ -21,12 +21,11 @@ section-bibs-level: 2 # May require edit to line 78 in _extensions/section-bibli
 citeproc: false
 
 csl: american-geophysical-union.csl
-
 ---
 
 ::: {.content-visible when-format="html"}
 
-View the .pdf version [here](CV_Skeeter.pdf)
+View the .pdf version [here](CV_Zoe.pdf)
 
 :::
 
@@ -34,22 +33,14 @@ View the .pdf version [here](CV_Skeeter.pdf)
 
 
 
-+-----------------------------------------------------------:+-------:+
-|                                                            |        |
-+============================================================+=======:+
-|PhD Geography, University of British Columbia (UBC)         | 2022   |
-|                                                            |        |
-| * {{< var Dissertation >}}                                 |        |
-+------------------------------------------------------------+--------+
-| MsC Geography, University of South Carolina (USC)          | 2015   |
-|                                                            |        |
-| - {{< var Thesis >}}	                                     |        |
-+------------------------------------------------------------+--------+
-| BS Honours in Environmental Science, University of British Columbia (UBC) | 2013   |
-|                                                            |        |
-| - Minor in Economics                                      |        |
-| - Graduated Cum Laude                                      |        |
-+------------------------------------------------------------+--------+
++---------------------------------------------------------------------------:+-------:+
+|                                                                            |        |
++============================================================================+=======:+
+| BS Honours in Environmental Science, University of British Columbia (UBC)  | 2022   |
+|                                                                            |        |
+| - Minor in Economics                                                       |        |
+| - Graduated Cum Laude                                                      |        |
++----------------------------------------------------------------------------+--------+
 
 : {tbl-colwidths="[80,20]"}
 
