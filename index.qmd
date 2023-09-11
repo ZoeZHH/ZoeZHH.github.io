@@ -1,0 +1,24 @@
+---
+title: "About Me"
+---
+
+::: columns
+::: {.column width="65%"}
+**Name**: Hehan (Zoe) Zhang
+
+**Pronouns**: She/Her/Hers
+
+**Email**: hehanzha@student.ubc.ca
+
+Hi! I'm Zoe. I am an Master student at the University of British Columbia, Geography Department, Micrometeorology Lab. I received a BSc in Environmental Science from the University of British Columbia in 2022.Currently, as a second-year MSc student, I am examining the impacts of seedling removal --- a post-fire management practice --- on the GHG fluxes (CO2 and CH4) within the 2016 burned zone of the Burns Bog, Delta, BC. This research utilizes a smart chamber with a portable analyzer. Additionally, I am interested in quantifying the net carbon exchange at the ecosystem scale using eddy covariance techniques and understanding carbon dynamics across varying ecosystem types.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![](images/profilePic.jpg)
+:::
+:::
+
+I'm an avid programmer I am fluent in Python and functionally proficient in a number of other languages including JavaScript, R, and Matlab. I love making maps and enjoy creating interactive, web-based applications for research and education. I prefer to work with open source options whenever possible because accessibility of information, transparency in data analysis, and minimizing barriers to access are central to my research and pedagogical philosophies.
