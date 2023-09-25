@@ -14,7 +14,7 @@ Here is a list of projects I've done or I'm working on.
 
 # Research & Field Work
 
-My primary research has been concentrated on Burns Bog, a raised domed peat bog siutated in Metro Vancouver.
+My primary research has been concentrated on Burns Bog, a raised domed peat bog situated in Metro Vancouver.
 The bog is equipped with two Eddy covariance (EC) stations, a mobile flux tower and multiple chamber sites.
 In my role as an undergraduate research assistant, I conducted research in quantifying greenhouse gas (GHG) fluxes within zones of the bog that experienced fire events in 2005 and 2016, as well as in an unburned zone.
 Theses measurements were executed employing static chamber - gas chromatography method.
@@ -25,16 +25,17 @@ This interest inspired me to undertake a project aimed at exploring the influenc
 
 ## Master Thesis - Investigating Impacts of Seedling Removal on Soil Respiration (CO~2~ and CH~4~) in a Restored Bog Ecosystem
 
-#### Supervisor: Dr. Sara Knox; Committee members: Dr. Andy Black & Dr. Maria Strack
+On July 3, 2016, a fire broke out in the north-western portion of the Burns Bog at the base of one of the Corus Entertainment radio towers, which consumed up to 78 hectares of the bog area.The fire resulted in the incineration of up to 50 cm of the surface peat, the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones.The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species.
+This in turn increases soil carbon emissions to the atmosphere and can decrease the carbon storage capacity of peatlands.
 
-On July 3, 2016, a fire broke out in the north-western portion of the Burns Bog at the base of one of the Corus Entertainment radio towers, which consumed up to 78 hectares of the bog area.The fire resulted in the incineration of up to 50 cm of the surface peat, the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones.The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species.This in turn increases soil carbon emissions to the atmosphere and can decrease the carbon storage capacity of peatlands.
-
-Appropriate postfire management (seedling removal) is hypothesized to protect the carbon sequestration potential of peatlands by preventing their transition to a forest ecosystem.This study aims to investigate the impacts of seedling removal on soil and ground-level respiration (both CO~2~ and CH~4~) within a burned section of Burns Bog.
+Appropriate postfire management (seedling removal) is hypothesized to protect the carbon sequestration potential of peatlands by preventing their transition to a forest ecosystem.
+This study aims to investigate the impacts of seedling removal on soil and ground-level respiration (both CO~2~ and CH~4~) within a burned section of Burns Bog.
 The study focuses on two distinct study areas (seedling area and seedling-removal area) located within the 2016 burned zone of the bog.
 Within each study area, three distinct study ecosystem types (Pine *Sphagnum* Low Shrub/Tall Shrub/Woodland) have been identified.
 Six collars were installed at each of the six chamber sites.
 
-The manual measurements include: CO~2~ and CH~4~ fluxes by using LI-COR 7810 gas analyzer; peat volumetric water content and peat temperature at depths of 5cm and 10cm adjacent to each collar; water table depth at each monitoring well across all study sites.The continuous measurements include: continuous water table depth across various ecosystem types; continuous peat temperature at 5, 10, and 30 cm below the peat surface; continuous water content at sites representing one specific ecosystem type.
+The manual measurements include: CO~2~ and CH~4~ fluxes by using LI-COR 7810 portable gas analyzer; peat volumetric water content and peat temperature at depths of 5cm and 10cm adjacent to each collar by using soil moisture and temperature probes; water table depth at each monitoring well across all study sites.
+The continuous measurements include: continuous water table depth across various ecosystem types; continuous peat temperature at 5, 10, and 30 cm below the peat surface; continuous water content at sites representing one specific ecosystem type.
 
 ![Me fixing the water pipe clogged issue](images/pipeclogged.jpg){fig-align="left" width="320"}
 
@@ -42,24 +43,20 @@ The manual measurements include: CO~2~ and CH~4~ fluxes by using LI-COR 7810 gas
 
 ## Graduate Research Work - Impacts of Heatwaves on Greenhouse Gas Fluxes (CO~2~ and CH~4~) in a Restored Bog Ecosystem: Nonlinearity, Asynchrony and Causality
 
-#### Supervisor: Dr. Sara Knox
-
 Increased global temperatures have led to a higher frequency and intensity of worldwide extreme weather occurrences.Based on the WMO's survey on extreme events frequency in 2022, heatwaves were the most commonly occurring event relative to others (117/477).
 However,our knowledge of the impacts of these extreme temperature events on ecosystem functions is still limited.
 
-By integrating the definitions of heatwaves from both the World Meteorological Organization (WMO) and De Boeck et al. (2010), we identified seven periods of heatwaves since the construction of the Burns Bog EC flux tower in 2016.We have conducted preliminary statistical analyses to understand the alterations in magnitude and patterns of FC and FCH~4~ before, during, and after the heatwave, and to identify the biophysical controls influencing FC and FCH~4~ during these phases.Presently, we're researching the use of information theory (mutual information and transfer entropy) to investigate dominant controls and causal interactions between the fluxes and their primary drivers under heatwave events.
+By integrating the definitions of heatwaves from both the World Meteorological Organization (WMO) and De Boeck et al. (2010), we identified seven periods of heatwaves since the construction of the Burns Bog EC flux tower in 2016.
+We have conducted preliminary statistical analyses to understand the alterations in magnitude and patterns of FC and FCH~4~ before, during, and after the heatwave, and to identify the biophysical controls influencing FC and FCH~4~ during these phases.Presently, we're researching the use of information theory (mutual information and transfer entropy) to investigate dominant controls and causal interactions between the fluxes and their primary drivers under heatwave events.
 
 ![Regularly participate in EC tower maintenance](images/towermaintenance.jpg){fig-align="left" width="320"}
 
 ## Honours Thesis - Postfire greenhouse gas exchange of three vegetation types in a restored bog ecosystem
 
-#### Supervisors: Dr. Sungching Lee & Dr. Sara Knox
-
 Under a warming climate, degraded peatlands are facing increased frequency and extent of peat fires, which can turn peatlands from net carbon (C) sinks to net C sources.The Burns Bog Ecological Conservancy Area (BBECA) located in Delta, British Columbia, Canada experienced two recent serious wildfires, one in 2005 and another in 2016.
 
 In this study, we used static chambers - gas chromatography to measure GHG fluxes at three dominant vegetation types in the 2005 and 2016 fire zones and an unburned area.
-
-Our goal was (a) quantify postfire GHG fluxes of three representative vegetation types in three zones experiencing different fire events and (b) investigate the effects of fire and time since fire on GHG exchanges in BBECA over 8 months (from October 2021 to May 2022).
+Our goals were (a) quantify postfire GHG fluxes of three representative vegetation types in three zones experiencing different fire events and (b) investigate the effects of fire and time since fire on GHG exchanges in BBECA over 8 months (from October 2021 to May 2022).
 
 Main findings include 1) Among all ecosystem types studied, sites characterized as Pine *Sphagnum* Woodland, particularly those with a higher density of trees, were identified as stronger sources of CO~2~ and weaker sources of CH~4~ and 2) N~2~O fluxes were found to be negligible across all investigated sites.
 

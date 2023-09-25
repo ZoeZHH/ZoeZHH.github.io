@@ -10,7 +10,7 @@ title: "About Me"
 
 **Email**: hehanzha@student.ubc.ca
 
-Hi! I'm Zoe. I am a Master student at the University of British Columbia, Geography Department, Micrometeorology Lab. I received a an Honours degree in Environmental Science from the University of British Columbia in 2022. Currently, as a second-year MSc student, I am examining the impacts of seedling removal --- a post-fire management practice --- on the GHG fluxes (CO~2~ and CH~4~) within the 2016 burned zone of the Burns Bog, Delta, BC. This research utilizes a smart chamber with a portable analyzer. Additionally, I am interested in quantifying and modelling the net carbon exchange at the ecosystem scale using eddy covariance techniques and understanding carbon dynamics across varying ecosystem types.
+Hi! I'm Zoe. I am a Master student at the University of British Columbia, Geography Department, Micrometeorology Lab. I received an Honours degree in Environmental Science from the University of British Columbia in 2022. Currently, as a second-year MSc student, I am examining the impacts of seedling removal --- a post-fire management practice --- on the GHG fluxes (CO~2~ and CH~4~) within the 2016 burned zone of the Burns Bog, Delta, BC. This research utilizes a smart chamber with a portable analyzer. Additionally, I am interested in quantifying and modelling the net carbon exchange at the ecosystem scale using eddy covariance techniques and understanding carbon dynamics across varying ecosystem types.
 :::
 
 ::: {.column width="5%"}

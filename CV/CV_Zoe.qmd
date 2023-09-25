@@ -4,6 +4,6 @@ title: "Hehan (Zoe) Zhang"
 
 ::: {.content-visible when-format="html"}
 
-View the .pdf version [here](https://docs.google.com/document/d/1jvsGevJ6Hi_npC4lNtew3ZO5A8krgQYV/edit)
+View the online version [here](https://docs.google.com/document/d/1jvsGevJ6Hi_npC4lNtew3ZO5A8krgQYV/edit)
 
 :::
