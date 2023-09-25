@@ -34,31 +34,34 @@ The study focuses on two distinct study areas (seedling area and seedling-remova
 Within each study area, three distinct study ecosystem types (Pine *Sphagnum* Low Shrub/Tall Shrub/Woodland) have been identified.
 Six collars were installed at each of the six chamber sites.
 
-The manual measurements include: CO~2~ and CH~4~ fluxes by using LI-COR 7810 portable gas analyzer; peat volumetric water content and peat temperature at depths of 5cm and 10cm adjacent to each collar by using soil moisture and temperature probes; water table depth at each monitoring well across all study sites.
+The manual measurements include: Soil respiration fluxes (CO~2~ and CH~4~) by using smart chamber and LI-COR 7810 portable gas analyzer; peat volumetric water content and peat temperature at depths of 5cm and 10cm adjacent to each collar by using soil moisture and temperature probes; water table depth at each monitoring well across all study sites.
 The continuous measurements include: continuous water table depth across various ecosystem types; continuous peat temperature at 5, 10, and 30 cm below the peat surface; continuous water content at sites representing one specific ecosystem type.
 
 ![Me fixing the water pipe clogged issue](images/pipeclogged.jpg){fig-align="left" width="320"}
 
-![Fluxes measurements portable analyzer (LI-7810) and smart chamber](images/fluxesmeasurements.jpg){fig-align="left" width="320"}
+![Fluxes measurements by using portable analyzer (LI-7810) and smart chamber](images/fluxesmeasurements.jpg){fig-align="left" width="320"}
 
 ## Graduate Research Work - Impacts of Heatwaves on Greenhouse Gas Fluxes (CO~2~ and CH~4~) in a Restored Bog Ecosystem: Nonlinearity, Asynchrony and Causality
 
-Increased global temperatures have led to a higher frequency and intensity of worldwide extreme weather occurrences.Based on the WMO's survey on extreme events frequency in 2022, heatwaves were the most commonly occurring event relative to others (117/477).
-However,our knowledge of the impacts of these extreme temperature events on ecosystem functions is still limited.
+Increased global temperatures have led to a higher frequency and intensity of worldwide extreme weather occurrences.
+Based on the WMO's survey on extreme events frequency in 2022, heatwaves were the most commonly occurring event relative to others (117/477).
+However, our knowledge of the impacts of these extreme temperature events on ecosystem functions is still limited.
 
 By integrating the definitions of heatwaves from both the World Meteorological Organization (WMO) and De Boeck et al. (2010), we identified seven periods of heatwaves since the construction of the Burns Bog EC flux tower in 2016.
-We have conducted preliminary statistical analyses to understand the alterations in magnitude and patterns of FC and FCH~4~ before, during, and after the heatwave, and to identify the biophysical controls influencing FC and FCH~4~ during these phases.Presently, we're researching the use of information theory (mutual information and transfer entropy) to investigate dominant controls and causal interactions between the fluxes and their primary drivers under heatwave events.
+We have conducted preliminary statistical analyses to understand the alterations in magnitude and patterns of FC and FCH~4~ before, during, and after the heatwave, and to identify the biophysical controls influencing FC and FCH~4~ during these phases.
+Presently, we're researching the use of information theory (mutual information and transfer entropy) to investigate dominant controls and causal interactions between the fluxes and their primary drivers under heatwave events.
 
 ![Regularly participate in EC tower maintenance](images/towermaintenance.jpg){fig-align="left" width="320"}
 
 ## Honours Thesis - Postfire greenhouse gas exchange of three vegetation types in a restored bog ecosystem
 
-Under a warming climate, degraded peatlands are facing increased frequency and extent of peat fires, which can turn peatlands from net carbon (C) sinks to net C sources.The Burns Bog Ecological Conservancy Area (BBECA) located in Delta, British Columbia, Canada experienced two recent serious wildfires, one in 2005 and another in 2016.
+Under a warming climate, degraded peatlands are facing increased frequency and extent of peat fires, which can turn peatlands from net carbon (C) sinks to net C sources.
+The Burns Bog experienced two recent serious wildfires, one in 2005 and another in 2016.
 
 In this study, we used static chambers - gas chromatography to measure GHG fluxes at three dominant vegetation types in the 2005 and 2016 fire zones and an unburned area.
 Our goals were (a) quantify postfire GHG fluxes of three representative vegetation types in three zones experiencing different fire events and (b) investigate the effects of fire and time since fire on GHG exchanges in BBECA over 8 months (from October 2021 to May 2022).
 
-Main findings include 1) Among all ecosystem types studied, sites characterized as Pine *Sphagnum* Woodland, particularly those with a higher density of trees, were identified as stronger sources of CO~2~ and weaker sources of CH~4~ and 2) N~2~O fluxes were found to be negligible across all investigated sites.
+Main findings include 1) Among all ecosystem types studied, sites characterized as Pine *Sphagnum* Woodland, particularly those with a higher density of trees, were identified as stronger sources of CO~2~ and weaker sources of CH~4~ and 2) N~2~O fluxes were found to be negligible across all investigated sites in the bog.
 
 ![Poster Presentation for Honours Thesis](images/honoursposter.jpg){fig-align="left"}
 
