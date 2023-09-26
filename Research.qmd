@@ -16,8 +16,7 @@ Here is a list of projects I've done or I'm working on.
 
 My primary research has been concentrated on Burns Bog, a raised domed peat bog situated in Metro Vancouver.
 The bog is equipped with two Eddy covariance (EC) stations, a mobile flux tower and multiple chamber sites.
-In my role as an undergraduate research assistant, I conducted research in quantifying greenhouse gas (GHG) fluxes within zones of the bog that experienced fire events in 2005 and 2016, as well as in an unburned zone.
-Theses measurements were executed employing static chamber - gas chromatography method.
+In my role as an undergraduate research assistant, I conducted research in quantifying greenhouse gas (GHG) fluxes within zones of the bog that experienced fire events in 2005 and 2016, as well as in an unburned zone.Theses measurements were executed employing static chamber - gas chromatography method.
 
 For my master's thesis, I am investigating the impacts of seedlings removal on soil respiration (CO~2~ and CH~4~) within the zone of the bog that was burned in 2016, utilizing the static chamber-portable analyzer technique.
 Concurrently, I have a strong interest in the modeling of EC data.
@@ -29,13 +28,18 @@ On July 3, 2016, a fire broke out in the north-western portion of the Burns Bog 
 This in turn increases soil carbon emissions to the atmosphere and can decrease the carbon storage capacity of peatlands.
 
 Appropriate postfire management (seedling removal) is hypothesized to protect the carbon sequestration potential of peatlands by preventing their transition to a forest ecosystem.
-This study aims to investigate the impacts of seedling removal on soil and ground-level respiration (both CO~2~ and CH~4~) within a burned section of Burns Bog.
-The study focuses on two distinct study areas (seedling area and seedling-removal area) located within the 2016 burned zone of the bog.
-Within each study area, three distinct study ecosystem types (Pine *Sphagnum* Low Shrub/Tall Shrub/Woodland) have been identified.
-Six collars were installed at each of the six chamber sites.
+This study aims to investigate the impacts of seedling removal on soil and ground-level respiration (both CO~2~ and CH~4~) within a burned section of the Bog.
+The study focuses on two distinct study areas (seedling and seedling-removal areas) located within the 2016 burned zone of the bog.
+Within each study area, three distinct ecosystem types (Pine *Sphagnum* Low Shrub/Tall Shrub/Woodland) have been identified.
+Chamber collars were installed at each of the study sites.
 
-The manual measurements include: Soil respiration fluxes (CO~2~ and CH~4~) by using smart chamber and LI-COR 7810 portable gas analyzer; peat volumetric water content and peat temperature at depths of 5cm and 10cm adjacent to each collar by using soil moisture and temperature probes; water table depth at each monitoring well across all study sites.
-The continuous measurements include: continuous water table depth across various ecosystem types; continuous peat temperature at 5, 10, and 30 cm below the peat surface; continuous water content at sites representing one specific ecosystem type.
+This research project is planned to span a full year, from April 2023 to March 2024.
+The frequency of field visits varies between the growing (\~3 times a month) and non-growing seasons (once per month).
+This study incorporates the manual measurements (soil respiration fluxes by using LI-COR 7810 portable gas analyzer with the smart chamber and environmental variables including peat volumetric water content, peat temperature and water table depths) and continuous measurements (water table depths, volumetric water content and peat temperature).
+
+The gathered fluxes data are analyzed using the SoilFluxPro software, developed by LI-COR.
+A mixed-effects model is employed to investigate the impacts of seedling removal on ecosystem respiration and methane fluxes.
+Year-round ecosystem respiration and methane fluxes will be modeled, utilizing both manual measurements of fluxes and continuous measurements of environmental variables to provide comprehensive insights into ecological responses and changes.
 
 ![Me fixing the water pipe clogged issue](images/pipeclogged.jpg){fig-align="left" width="320"}
 
@@ -48,7 +52,7 @@ Based on the WMO's survey on extreme events frequency in 2022, heatwaves were th
 However, our knowledge of the impacts of these extreme temperature events on ecosystem functions is still limited.
 
 By integrating the definitions of heatwaves from both the World Meteorological Organization (WMO) and De Boeck et al. (2010), we identified seven periods of heatwaves since the construction of the Burns Bog EC flux tower in 2016.
-We have conducted preliminary statistical analyses to understand the alterations in magnitude and patterns of FC and FCH~4~ before, during, and after the heatwave, and to identify the biophysical controls influencing FC and FCH~4~ during these phases.
+We have conducted preliminary statistical analyses to understand the alterations in magnitude and patterns of carbon (FC) and methane fluxes (FCH~4~) before, during, and after the heatwave, and to identify the biophysical controls influencing FC and FCH~4~ during these phases.
 Presently, we're researching the use of information theory (mutual information and transfer entropy) to investigate dominant controls and causal interactions between the fluxes and their primary drivers under heatwave events.
 
 ![Regularly participate in EC tower maintenance](images/towermaintenance.jpg){fig-align="left" width="320"}
