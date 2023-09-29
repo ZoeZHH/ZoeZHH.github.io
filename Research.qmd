@@ -44,11 +44,11 @@ The gathered fluxes data are analyzed using the SoilFluxPro software, developed 
 A mixed-effects model is employed to investigate the impacts of seedling removal on ecosystem respiration and methane fluxes.
 Year-round ecosystem respiration and methane fluxes will be modeled, utilizing both manual measurements of fluxes and continuous measurements of environmental variables to provide comprehensive insights into ecological responses and changes.
 
-![Me fixing the water pipe clogged issue](images/pipeclogged.jpg){fig-align="left" width="320"}
+![Me fixing the water pipe clogged issue and doing the level survey](images/fieldwork.jpg){fig-align="left" width="320"}
 
 ![Fluxes measurements by using portable analyzer (LI-7810) and smart chamber](images/fluxesmeasurements.jpg){fig-align="left" width="320"}
 
-## Graduate Research Work 
+## Graduate Research Work
 
 ### Impacts of Heatwaves on Greenhouse Gas Fluxes (CO~2~ and CH~4~) in a Restored Bog Ecosystem: Nonlinearity, Asynchrony and Causality
 
@@ -62,7 +62,7 @@ Presently, we're researching the use of information theory (mutual information a
 
 ![Regularly participate in EC tower maintenance](images/towermaintenance.jpg){fig-align="left" width="320"}
 
-## Honours Thesis 
+## Honours Thesis
 
 ### Postfire greenhouse gas exchange of three vegetation types in a restored bog ecosystem
 
