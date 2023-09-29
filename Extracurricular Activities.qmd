@@ -1,0 +1,21 @@
+---
+title: "Extracurricular Activities"
+format: 
+  html:
+    
+    code-fold: true
+jupyter: python3
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Co-founder of the Step-Silu Education Corporation
+
+-   Conducted two public welfare lectures to share experiences on applying for master's programs
+
+-   Assisted 20+ undergraduate students on applying their course-based master programs
+
+-   Managed 10+ part-time staff during the period of 2021-2022
+
+![Me giving a public lecture in 2022](images/public2022.jpg){fig-align="left" width="320"}

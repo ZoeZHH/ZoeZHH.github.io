@@ -12,6 +12,8 @@ website:
         text: Research
       - href: CV/CV_Zoe.qmd
         text: Curriculum Vitae
+      - href: Extracurricular Activities.qmd
+        text: Extracurricular Activities
 
 format:
   html:
