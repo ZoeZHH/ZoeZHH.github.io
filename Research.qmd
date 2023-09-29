@@ -27,7 +27,7 @@ This interest inspired me to undertake a project aimed at exploring the influenc
 
 ### Investigating Impacts of Seedling Removal on Soil Respiration (CO~2~ and CH~4~) in a Restored Bog Ecosystem
 
-On July 3, 2016, a fire broke out in the north-western portion of the Burns Bog at the base of one of the Corus Entertainment radio towers, which consumed up to 78 hectares of the bog area.The fire resulted in the incineration of up to 50 cm of the surface peat, the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones.The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species.
+On July 3, 2016, a fire broke out in the north-western portion of the Burns Bog at the base of one of the Entertainment radio towers, which consumed up to 78 hectares of the bog area.The fire resulted in the incineration of up to 50 cm of the surface peat, the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones.The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species.
 This in turn increases soil carbon emissions to the atmosphere and can decrease the carbon storage capacity of peatlands.
 
 Appropriate postfire management (seedling removal) is hypothesized to protect the carbon sequestration potential of peatlands by preventing their transition to a forest ecosystem.
