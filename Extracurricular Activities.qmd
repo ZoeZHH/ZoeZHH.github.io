@@ -24,3 +24,7 @@ editor:
 
 -   Designed and taught lecture topics encompassing fundamental biological concepts such as cell biology, ecology, and human anatomy
 -   Leaded lab sections
+
+## Science Museum Guide at Liaoning Science and Technology Museum
+
+-   Designed and conducted exhibit lectures about modern science and technology
