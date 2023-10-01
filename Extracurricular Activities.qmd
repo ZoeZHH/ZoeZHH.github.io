@@ -18,6 +18,11 @@ editor:
 
 ![Me giving a public lecture in 2022](images/public2022.jpg){fig-align="left" width="320"}
 
+## Academic Planner at University of British Columbia
+
+-   Used Excel to analyze undergraduates' registered courses and credits, and hence designed their future course plan with them 
+-   Assisted 30+ undergraduate students
+
 ## Biology Tutor at Florence Nightingale Elementary School
 
 -   Designed and taught lecture topics encompassing fundamental biological concepts such as cell biology, ecology, and human anatomy
