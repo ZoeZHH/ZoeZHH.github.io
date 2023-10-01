@@ -38,11 +38,9 @@ Chamber collars were installed at each of the study sites.
 
 This research project is planned to span a full year, from April 2023 to March 2024.
 The frequency of field visits varies between the growing (\~3 times a month) and non-growing seasons (once per month).
-This study incorporates the manual measurements (soil respiration fluxes by using LI-COR 7810 portable gas analyzer with the smart chamber and environmental variables including peat volumetric water content, peat temperature and water table depths) and continuous measurements (water table depths, volumetric water content and peat temperature).
+This study incorporates the manual measurements (soil respiration fluxes by using LI-COR 7810 portable gas analyzer with the smart chamber and environmental variables including peat volumetric water content, peat temperature and water table depths), continuous measurements (water table depths, volumetric water content and peat temperature) and a temporary eddy covariance flux tower (equipped with LI-7500 CO~2~/H~2~O open path gas analyzer, CSAT3 3D Sonic Anemometer, HMP35A temperature and relative humidity probe and a quantum sensor).
 
-The gathered fluxes data are analyzed using the SoilFluxPro software, developed by LI-COR.
-A mixed-effects model is employed to investigate the impacts of seedling removal on ecosystem respiration and methane fluxes.
-Year-round ecosystem respiration and methane fluxes will be modeled, utilizing both manual measurements of fluxes and continuous measurements of environmental variables to provide comprehensive insights into ecological responses and changes.
+The gathered fluxes data are analyzed using the SoilFluxPro software, developed by LI-COR. A mixed-effects model is employed to investigate the impacts of seedling removal on ecosystem respiration and methane fluxes. Year-round ecosystem respiration and methane fluxes will be modeled, utilizing both manual measurements of fluxes and continuous measurements of environmental variables to provide comprehensive insights into ecological responses and changes. Flux data between manual chamber measurements and a temporary eddy covariance flux tower will be compared and integrated.
 
 ![Me fixing the water pipe clogged issue and doing the level survey](images/fieldwork.jpg){fig-align="left" width="320"}
 
